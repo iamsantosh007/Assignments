@@ -1,0 +1,3 @@
+Q)does WriteLine() has params and if yes show example 
+
+ANS:-Yes,writeLine has Params and we can pass N number of Object type variable in writeline method because WriteLine() method is "public static void WriteLine(string format, params object[] arg){}"

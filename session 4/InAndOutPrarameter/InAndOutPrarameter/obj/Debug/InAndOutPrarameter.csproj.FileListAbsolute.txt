@@ -1,0 +1,8 @@
+E:\SwabhavLiveSession\session_4\InAndOutPrarameter\InAndOutPrarameter\bin\Debug\InAndOutPrarameter.exe.config
+E:\SwabhavLiveSession\session_4\InAndOutPrarameter\InAndOutPrarameter\bin\Debug\InAndOutPrarameter.exe
+E:\SwabhavLiveSession\session_4\InAndOutPrarameter\InAndOutPrarameter\bin\Debug\InAndOutPrarameter.pdb
+E:\SwabhavLiveSession\session_4\InAndOutPrarameter\InAndOutPrarameter\obj\Debug\InAndOutPrarameter.csproj.AssemblyReference.cache
+E:\SwabhavLiveSession\session_4\InAndOutPrarameter\InAndOutPrarameter\obj\Debug\InAndOutPrarameter.csproj.SuggestedBindingRedirects.cache
+E:\SwabhavLiveSession\session_4\InAndOutPrarameter\InAndOutPrarameter\obj\Debug\InAndOutPrarameter.csproj.CoreCompileInputs.cache
+E:\SwabhavLiveSession\session_4\InAndOutPrarameter\InAndOutPrarameter\obj\Debug\InAndOutPrarameter.exe
+E:\SwabhavLiveSession\session_4\InAndOutPrarameter\InAndOutPrarameter\obj\Debug\InAndOutPrarameter.pdb

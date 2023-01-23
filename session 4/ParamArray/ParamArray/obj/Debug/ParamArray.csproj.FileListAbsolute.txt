@@ -1,0 +1,8 @@
+E:\SwabhavLiveSession\session_4\ParamArray\ParamArray\bin\Debug\ParamArray.exe.config
+E:\SwabhavLiveSession\session_4\ParamArray\ParamArray\bin\Debug\ParamArray.exe
+E:\SwabhavLiveSession\session_4\ParamArray\ParamArray\bin\Debug\ParamArray.pdb
+E:\SwabhavLiveSession\session_4\ParamArray\ParamArray\obj\Debug\ParamArray.csproj.AssemblyReference.cache
+E:\SwabhavLiveSession\session_4\ParamArray\ParamArray\obj\Debug\ParamArray.csproj.SuggestedBindingRedirects.cache
+E:\SwabhavLiveSession\session_4\ParamArray\ParamArray\obj\Debug\ParamArray.csproj.CoreCompileInputs.cache
+E:\SwabhavLiveSession\session_4\ParamArray\ParamArray\obj\Debug\ParamArray.exe
+E:\SwabhavLiveSession\session_4\ParamArray\ParamArray\obj\Debug\ParamArray.pdb
