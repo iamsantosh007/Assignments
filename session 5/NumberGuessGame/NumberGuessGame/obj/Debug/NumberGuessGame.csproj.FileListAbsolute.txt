@@ -1,0 +1,8 @@
+E:\SwabhavLiveSession\Session_3\NumberGuessGame\NumberGuessGame\bin\Debug\NumberGuessGame.exe.config
+E:\SwabhavLiveSession\Session_3\NumberGuessGame\NumberGuessGame\bin\Debug\NumberGuessGame.exe
+E:\SwabhavLiveSession\Session_3\NumberGuessGame\NumberGuessGame\bin\Debug\NumberGuessGame.pdb
+E:\SwabhavLiveSession\Session_3\NumberGuessGame\NumberGuessGame\obj\Debug\NumberGuessGame.csproj.AssemblyReference.cache
+E:\SwabhavLiveSession\Session_3\NumberGuessGame\NumberGuessGame\obj\Debug\NumberGuessGame.csproj.SuggestedBindingRedirects.cache
+E:\SwabhavLiveSession\Session_3\NumberGuessGame\NumberGuessGame\obj\Debug\NumberGuessGame.csproj.CoreCompileInputs.cache
+E:\SwabhavLiveSession\Session_3\NumberGuessGame\NumberGuessGame\obj\Debug\NumberGuessGame.exe
+E:\SwabhavLiveSession\Session_3\NumberGuessGame\NumberGuessGame\obj\Debug\NumberGuessGame.pdb
