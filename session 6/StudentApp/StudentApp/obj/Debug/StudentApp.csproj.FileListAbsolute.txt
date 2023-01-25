@@ -1,0 +1,8 @@
+E:\Swabhav Assignments\session 6\StudentApp\StudentApp\bin\Debug\StudentApp.exe.config
+E:\Swabhav Assignments\session 6\StudentApp\StudentApp\bin\Debug\StudentApp.exe
+E:\Swabhav Assignments\session 6\StudentApp\StudentApp\bin\Debug\StudentApp.pdb
+E:\Swabhav Assignments\session 6\StudentApp\StudentApp\obj\Debug\StudentApp.csproj.AssemblyReference.cache
+E:\Swabhav Assignments\session 6\StudentApp\StudentApp\obj\Debug\StudentApp.csproj.SuggestedBindingRedirects.cache
+E:\Swabhav Assignments\session 6\StudentApp\StudentApp\obj\Debug\StudentApp.csproj.CoreCompileInputs.cache
+E:\Swabhav Assignments\session 6\StudentApp\StudentApp\obj\Debug\StudentApp.exe
+E:\Swabhav Assignments\session 6\StudentApp\StudentApp\obj\Debug\StudentApp.pdb

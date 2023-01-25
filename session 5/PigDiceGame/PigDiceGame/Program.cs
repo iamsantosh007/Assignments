@@ -12,12 +12,13 @@ namespace PigDiceGame
         const int winMark = 20;
         
 
+
         public static void Main(string[] args)
         {
-           
-            GameInitialize();  
-            
-            
+
+            GameInitialize();
+
+
             Console.ReadLine();
 
         }
@@ -26,16 +27,19 @@ namespace PigDiceGame
             Game game = new Game();
             int initialScore = 0;
             bool start = true;
+            bool flag = true;
             Console.WriteLine("welcome to the game of PigDiceGame\n" +
                 "Developed by santosh");
             while (start)
             {
                 Console.WriteLine();
-                Console.WriteLine($"Turn {game.turn}");
-                start = StartGame(ref initialScore,game);
+                if(flag)
+                    Console.WriteLine($"Turn {game.turn}");
+                flag= false;
+                start = StartGame(ref initialScore, game,ref flag);
             }
             Console.WriteLine();
-            Console.WriteLine("Do you want to play again:- y/n");
+            Console.WriteLine($"Do you want to play again:- y/n");
             char playAgain = Convert.ToChar(Console.ReadLine());
             switch (playAgain)
             {
@@ -47,10 +51,11 @@ namespace PigDiceGame
                     break;
             }
         }
-        public static bool StartGame(ref int initialScore,Game game)  //start the game method and in this you will get the play option like roll and hold
+        public static bool StartGame(ref int initialScore, Game game,ref bool flag)  //start the game method and in this you will get the play option like roll and hold
         {
-            try {
-                Console.WriteLine("enter r/h:- ");
+            try
+            {
+                Console.WriteLine($"enter r/h:-                 need {winMark - game.score} to win");
                 char c = Convert.ToChar(Console.ReadLine());
 
                 int diceNumber = game.GenerateDiceNumber();
@@ -64,6 +69,7 @@ namespace PigDiceGame
                             string comment = initialScore <= 0 ? "You are unlucky because you got 0 in your 1st attempt" : $"currunt Turn score is {initialScore} but you are greedy so your score won't be count";
                             Console.WriteLine(comment);
                             initialScore = 0;
+                            flag= true;
                             return true;
                         }
                         if (diceNumber == 1 && game.score == 0)
@@ -73,13 +79,14 @@ namespace PigDiceGame
                             string comment = initialScore <= 0 ? "You are unlucky because you got 0 in your 1st attempt" : $"currunt Turn score is {initialScore} but you are greedy so your score won't be count";
                             Console.WriteLine(comment);
                             initialScore = 0;
+                            flag = true;
                             return true;
                         }
                         if (diceNumber > 1)
                         {
                             initialScore += diceNumber;
                             game.score += diceNumber;
-                            bool check = ResultCheck(game.score,game);
+                            bool check = ResultCheck(game.score, game);
                             return check;
                         }
                         break;
@@ -88,6 +95,7 @@ namespace PigDiceGame
                         Console.WriteLine($"your turn score is {initialScore}\n" +
                             $"Total score is {game.score}");
                         initialScore = 0;
+                        flag = true;
                         return true;
                     default:
                         Console.WriteLine("please enter in correct format");
@@ -99,7 +107,8 @@ namespace PigDiceGame
                 return false;
 
 
-            }catch(Exception)
+            }
+            catch (Exception)
             {
 
                 Console.WriteLine("please enter correct option");
@@ -107,7 +116,7 @@ namespace PigDiceGame
             }
         }
 
-        public static bool ResultCheck(int score,Game game)
+        public static bool ResultCheck(int score, Game game)
         {
             if (score >= winMark)
             {

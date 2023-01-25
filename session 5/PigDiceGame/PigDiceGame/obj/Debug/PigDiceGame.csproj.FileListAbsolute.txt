@@ -6,3 +6,11 @@ E:\SwabhavLiveSession\session_5\PigDiceGame\PigDiceGame\obj\Debug\PigDiceGame.cs
 E:\SwabhavLiveSession\session_5\PigDiceGame\PigDiceGame\obj\Debug\PigDiceGame.csproj.CoreCompileInputs.cache
 E:\SwabhavLiveSession\session_5\PigDiceGame\PigDiceGame\obj\Debug\PigDiceGame.exe
 E:\SwabhavLiveSession\session_5\PigDiceGame\PigDiceGame\obj\Debug\PigDiceGame.pdb
+E:\Swabhav Assignments\session 5\PigDiceGame\PigDiceGame\bin\Debug\PigDiceGame.exe.config
+E:\Swabhav Assignments\session 5\PigDiceGame\PigDiceGame\bin\Debug\PigDiceGame.exe
+E:\Swabhav Assignments\session 5\PigDiceGame\PigDiceGame\bin\Debug\PigDiceGame.pdb
+E:\Swabhav Assignments\session 5\PigDiceGame\PigDiceGame\obj\Debug\PigDiceGame.csproj.AssemblyReference.cache
+E:\Swabhav Assignments\session 5\PigDiceGame\PigDiceGame\obj\Debug\PigDiceGame.csproj.SuggestedBindingRedirects.cache
+E:\Swabhav Assignments\session 5\PigDiceGame\PigDiceGame\obj\Debug\PigDiceGame.csproj.CoreCompileInputs.cache
+E:\Swabhav Assignments\session 5\PigDiceGame\PigDiceGame\obj\Debug\PigDiceGame.exe
+E:\Swabhav Assignments\session 5\PigDiceGame\PigDiceGame\obj\Debug\PigDiceGame.pdb
