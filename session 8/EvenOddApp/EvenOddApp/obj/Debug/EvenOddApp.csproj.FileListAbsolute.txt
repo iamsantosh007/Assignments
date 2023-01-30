@@ -1,0 +1,8 @@
+E:\Swabhav Assignments\session 8\EvenOddApp\EvenOddApp\obj\Debug\EvenOddApp.csproj.AssemblyReference.cache
+E:\Swabhav Assignments\session 8\EvenOddApp\EvenOddApp\obj\Debug\EvenOddApp.csproj.SuggestedBindingRedirects.cache
+E:\Swabhav Assignments\session 8\EvenOddApp\EvenOddApp\obj\Debug\EvenOddApp.csproj.CoreCompileInputs.cache
+E:\Swabhav Assignments\session 8\EvenOddApp\EvenOddApp\bin\Debug\EvenOddApp.exe.config
+E:\Swabhav Assignments\session 8\EvenOddApp\EvenOddApp\bin\Debug\EvenOddApp.exe
+E:\Swabhav Assignments\session 8\EvenOddApp\EvenOddApp\bin\Debug\EvenOddApp.pdb
+E:\Swabhav Assignments\session 8\EvenOddApp\EvenOddApp\obj\Debug\EvenOddApp.exe
+E:\Swabhav Assignments\session 8\EvenOddApp\EvenOddApp\obj\Debug\EvenOddApp.pdb
