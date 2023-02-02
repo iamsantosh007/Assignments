@@ -1,0 +1,8 @@
+E:\Swabhav Assignments\session 10\WritingContentApp\WritingContentApp\bin\Debug\WritingContentApp.exe.config
+E:\Swabhav Assignments\session 10\WritingContentApp\WritingContentApp\bin\Debug\WritingContentApp.exe
+E:\Swabhav Assignments\session 10\WritingContentApp\WritingContentApp\bin\Debug\WritingContentApp.pdb
+E:\Swabhav Assignments\session 10\WritingContentApp\WritingContentApp\obj\Debug\WritingContentApp.csproj.AssemblyReference.cache
+E:\Swabhav Assignments\session 10\WritingContentApp\WritingContentApp\obj\Debug\WritingContentApp.csproj.SuggestedBindingRedirects.cache
+E:\Swabhav Assignments\session 10\WritingContentApp\WritingContentApp\obj\Debug\WritingContentApp.csproj.CoreCompileInputs.cache
+E:\Swabhav Assignments\session 10\WritingContentApp\WritingContentApp\obj\Debug\WritingContentApp.exe
+E:\Swabhav Assignments\session 10\WritingContentApp\WritingContentApp\obj\Debug\WritingContentApp.pdb

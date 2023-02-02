@@ -20,9 +20,10 @@ namespace EvenOddApp.Models
 
         public void EvenNumGenerator(int range)
         {
+            //float bound = (float)range / 2;
             int indexNum = 0;
             EvenNum = new int[range/2];
-            for(int i=0;i<range; i++)
+            for(int i=1;i<=range; i++)
             {
                 if (i % 2 == 0)
                 {
@@ -35,9 +36,12 @@ namespace EvenOddApp.Models
 
         public void OddNumGenerator(int range)
         {
+            float bound = (float)range / 2;
+            if (range % 2 != 0)
+                bound= ((float)range / 2)+0.5f;
             int indexNum = 0;
-            OddNum = new int[range / 2];
-            for (int i = 0; i < range; i++)
+            OddNum = new int[(int)bound];
+            for (int i = 0; i <=range; i++)
             {
                 if (i % 2 != 0)
                 {

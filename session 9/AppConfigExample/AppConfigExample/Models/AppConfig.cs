@@ -14,7 +14,6 @@ namespace AppConfigExample.Models
             string connectionTwo = ConfigurationSettings.AppSettings["connection2"];
             string serverName = connectionTwo.Split(';')[0];
             Console.WriteLine(serverName);
-
             string dataBaseName = connectionTwo.Split(';')[1];
             Console.WriteLine(dataBaseName);
         }

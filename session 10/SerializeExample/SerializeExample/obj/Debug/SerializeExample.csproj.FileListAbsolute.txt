@@ -1,0 +1,8 @@
+E:\Swabhav Assignments\session 10\SerializeExample\SerializeExample\bin\Debug\SerializeExample.exe.config
+E:\Swabhav Assignments\session 10\SerializeExample\SerializeExample\bin\Debug\SerializeExample.exe
+E:\Swabhav Assignments\session 10\SerializeExample\SerializeExample\bin\Debug\SerializeExample.pdb
+E:\Swabhav Assignments\session 10\SerializeExample\SerializeExample\obj\Debug\SerializeExample.csproj.AssemblyReference.cache
+E:\Swabhav Assignments\session 10\SerializeExample\SerializeExample\obj\Debug\SerializeExample.csproj.SuggestedBindingRedirects.cache
+E:\Swabhav Assignments\session 10\SerializeExample\SerializeExample\obj\Debug\SerializeExample.csproj.CoreCompileInputs.cache
+E:\Swabhav Assignments\session 10\SerializeExample\SerializeExample\obj\Debug\SerializeExample.exe
+E:\Swabhav Assignments\session 10\SerializeExample\SerializeExample\obj\Debug\SerializeExample.pdb
