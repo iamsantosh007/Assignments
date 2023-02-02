@@ -1,0 +1,8 @@
+E:\Swabhav Assignments\session 11\ReflectionExample\ReflectionExample\bin\Debug\ReflectionExample.exe.config
+E:\Swabhav Assignments\session 11\ReflectionExample\ReflectionExample\bin\Debug\ReflectionExample.exe
+E:\Swabhav Assignments\session 11\ReflectionExample\ReflectionExample\bin\Debug\ReflectionExample.pdb
+E:\Swabhav Assignments\session 11\ReflectionExample\ReflectionExample\obj\Debug\ReflectionExample.csproj.AssemblyReference.cache
+E:\Swabhav Assignments\session 11\ReflectionExample\ReflectionExample\obj\Debug\ReflectionExample.csproj.SuggestedBindingRedirects.cache
+E:\Swabhav Assignments\session 11\ReflectionExample\ReflectionExample\obj\Debug\ReflectionExample.csproj.CoreCompileInputs.cache
+E:\Swabhav Assignments\session 11\ReflectionExample\ReflectionExample\obj\Debug\ReflectionExample.exe
+E:\Swabhav Assignments\session 11\ReflectionExample\ReflectionExample\obj\Debug\ReflectionExample.pdb
