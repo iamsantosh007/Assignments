@@ -1,0 +1,8 @@
+E:\Swabhav Assignments\session 12\SeializeAndDeserializeExample\SeializeAndDeserializeExample\bin\Debug\SeializeAndDeserializeExample.exe.config
+E:\Swabhav Assignments\session 12\SeializeAndDeserializeExample\SeializeAndDeserializeExample\bin\Debug\SeializeAndDeserializeExample.exe
+E:\Swabhav Assignments\session 12\SeializeAndDeserializeExample\SeializeAndDeserializeExample\bin\Debug\SeializeAndDeserializeExample.pdb
+E:\Swabhav Assignments\session 12\SeializeAndDeserializeExample\SeializeAndDeserializeExample\obj\Debug\SeializeAndDeserializeExample.csproj.AssemblyReference.cache
+E:\Swabhav Assignments\session 12\SeializeAndDeserializeExample\SeializeAndDeserializeExample\obj\Debug\SeializeAndDeserializeExample.csproj.SuggestedBindingRedirects.cache
+E:\Swabhav Assignments\session 12\SeializeAndDeserializeExample\SeializeAndDeserializeExample\obj\Debug\SeializeAndDeserializeExample.csproj.CoreCompileInputs.cache
+E:\Swabhav Assignments\session 12\SeializeAndDeserializeExample\SeializeAndDeserializeExample\obj\Debug\SeializeAndDeserializeExample.exe
+E:\Swabhav Assignments\session 12\SeializeAndDeserializeExample\SeializeAndDeserializeExample\obj\Debug\SeializeAndDeserializeExample.pdb

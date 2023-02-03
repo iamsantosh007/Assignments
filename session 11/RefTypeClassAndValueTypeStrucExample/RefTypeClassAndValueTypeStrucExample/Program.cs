@@ -26,22 +26,22 @@ namespace RefTypeClassAndValueTypeStrucExample
         private static void CaseStudyForValueTypeStruct()
         {
             StructExample structExpl = new StructExample(33,"santosh");
-            StructExample cloneExpl = structExpl;
+            StructExample refStructExpl = structExpl;
 
-            cloneExpl.Name = "Patro";
-            cloneExpl.ID = 44;
+            refStructExpl.Name = "Patro";
+            refStructExpl.ID = 44;
 
             Console.WriteLine(structExpl.Name + " " + structExpl.ID);
-            Console.WriteLine(cloneExpl.Name+" "+cloneExpl.ID);
+            Console.WriteLine(refStructExpl.Name+" "+refStructExpl.ID);
         }
 
         private static void CaseStudyForReferenceTypeClass()
         {
             ClassExample classExpl = new ClassExample("santosh", 33);
-            ClassExample clonableClass = classExpl;
+            ClassExample refClassExample = classExpl;
 
-            clonableClass.Name = "Patro";
-            clonableClass.ID = 44;
+            refClassExample.Name = "Patro";
+            refClassExample.ID = 44;
 
             Console.WriteLine(classExpl.Name + " " + classExpl.ID);
         }

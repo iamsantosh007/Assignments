@@ -1,0 +1,6 @@
+E:\Swabhav Assignments\session 12\CustomerConsole\CustomerClassLibrary\bin\Debug\CustomerClassLibrary.dll
+E:\Swabhav Assignments\session 12\CustomerConsole\CustomerClassLibrary\bin\Debug\CustomerClassLibrary.pdb
+E:\Swabhav Assignments\session 12\CustomerConsole\CustomerClassLibrary\obj\Debug\CustomerClassLibrary.csproj.AssemblyReference.cache
+E:\Swabhav Assignments\session 12\CustomerConsole\CustomerClassLibrary\obj\Debug\CustomerClassLibrary.csproj.CoreCompileInputs.cache
+E:\Swabhav Assignments\session 12\CustomerConsole\CustomerClassLibrary\obj\Debug\CustomerClassLibrary.dll
+E:\Swabhav Assignments\session 12\CustomerConsole\CustomerClassLibrary\obj\Debug\CustomerClassLibrary.pdb

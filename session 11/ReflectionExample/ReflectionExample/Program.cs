@@ -10,16 +10,20 @@ namespace ReflectionExample
 {
     class Program
     {
+       
         static void Main(string[] args)
         {
-            Reflecter reflecter = new Reflecter(10);
-            ShowDetails(reflecter);
+
+            Type type = typeof(Reflecter);
+            ShowDetails(type);
+
         }
 
-        private static void ShowDetails(Object obj)
+        private static void ShowDetails(Type type)
         {
-            Type type= obj.GetType();
+            
             Console.WriteLine($"The type of class is {type.Name}");
+            Console.WriteLine();
             MethodInfo[] methods = type.GetMethods(BindingFlags.DeclaredOnly|BindingFlags.Instance|BindingFlags.Public);
             Console.WriteLine($"There is total Methods {methods.Length} see below:-");
             foreach (MethodInfo method in methods)
@@ -27,10 +31,22 @@ namespace ReflectionExample
                 Console.WriteLine(method.Name);
             }
             Console.WriteLine();
+            Console.WriteLine();
             ConstructorInfo[] constructors = type.GetConstructors();
             Console.WriteLine($"There is total Constructor {constructors.Length}");
+            foreach(ConstructorInfo constructor in constructors)
+            {
+                Console.WriteLine(constructor.Name);
+                
+            }
+            Console.WriteLine();
             PropertyInfo[] properties = type.GetProperties();
             Console.WriteLine("There is total "+properties.Length+" Property");
+            foreach(PropertyInfo property in properties)
+            {
+                Console.WriteLine(property.Name);
+                
+            }
         }
     }
 }

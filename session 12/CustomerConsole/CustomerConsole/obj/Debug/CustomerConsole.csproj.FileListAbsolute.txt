@@ -1,0 +1,11 @@
+E:\Swabhav Assignments\session 12\CustomerConsole\CustomerConsole\bin\Debug\CustomerConsole.exe.config
+E:\Swabhav Assignments\session 12\CustomerConsole\CustomerConsole\bin\Debug\CustomerConsole.exe
+E:\Swabhav Assignments\session 12\CustomerConsole\CustomerConsole\bin\Debug\CustomerConsole.pdb
+E:\Swabhav Assignments\session 12\CustomerConsole\CustomerConsole\bin\Debug\CustomerClassLibrary.dll
+E:\Swabhav Assignments\session 12\CustomerConsole\CustomerConsole\bin\Debug\CustomerClassLibrary.pdb
+E:\Swabhav Assignments\session 12\CustomerConsole\CustomerConsole\obj\Debug\CustomerConsole.csproj.AssemblyReference.cache
+E:\Swabhav Assignments\session 12\CustomerConsole\CustomerConsole\obj\Debug\CustomerConsole.csproj.SuggestedBindingRedirects.cache
+E:\Swabhav Assignments\session 12\CustomerConsole\CustomerConsole\obj\Debug\CustomerConsole.csproj.CoreCompileInputs.cache
+E:\Swabhav Assignments\session 12\CustomerConsole\CustomerConsole\obj\Debug\CustomerConsole.csproj.CopyComplete
+E:\Swabhav Assignments\session 12\CustomerConsole\CustomerConsole\obj\Debug\CustomerConsole.exe
+E:\Swabhav Assignments\session 12\CustomerConsole\CustomerConsole\obj\Debug\CustomerConsole.pdb
