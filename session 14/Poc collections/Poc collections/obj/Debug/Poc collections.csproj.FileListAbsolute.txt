@@ -1,0 +1,8 @@
+E:\Swabhav Assignments\session 14\Poc collections\Poc collections\bin\Debug\Poc collections.exe.config
+E:\Swabhav Assignments\session 14\Poc collections\Poc collections\bin\Debug\Poc collections.exe
+E:\Swabhav Assignments\session 14\Poc collections\Poc collections\bin\Debug\Poc collections.pdb
+E:\Swabhav Assignments\session 14\Poc collections\Poc collections\obj\Debug\Poc collections.csproj.AssemblyReference.cache
+E:\Swabhav Assignments\session 14\Poc collections\Poc collections\obj\Debug\Poc collections.csproj.SuggestedBindingRedirects.cache
+E:\Swabhav Assignments\session 14\Poc collections\Poc collections\obj\Debug\Poc collections.csproj.CoreCompileInputs.cache
+E:\Swabhav Assignments\session 14\Poc collections\Poc collections\obj\Debug\Poc collections.exe
+E:\Swabhav Assignments\session 14\Poc collections\Poc collections\obj\Debug\Poc collections.pdb
