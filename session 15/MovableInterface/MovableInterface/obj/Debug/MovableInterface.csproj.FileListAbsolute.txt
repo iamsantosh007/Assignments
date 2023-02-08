@@ -1,0 +1,8 @@
+E:\Swabhav Assignments\session 15\MovableInterface\MovableInterface\bin\Debug\MovableInterface.exe.config
+E:\Swabhav Assignments\session 15\MovableInterface\MovableInterface\bin\Debug\MovableInterface.exe
+E:\Swabhav Assignments\session 15\MovableInterface\MovableInterface\bin\Debug\MovableInterface.pdb
+E:\Swabhav Assignments\session 15\MovableInterface\MovableInterface\obj\Debug\MovableInterface.csproj.AssemblyReference.cache
+E:\Swabhav Assignments\session 15\MovableInterface\MovableInterface\obj\Debug\MovableInterface.csproj.SuggestedBindingRedirects.cache
+E:\Swabhav Assignments\session 15\MovableInterface\MovableInterface\obj\Debug\MovableInterface.csproj.CoreCompileInputs.cache
+E:\Swabhav Assignments\session 15\MovableInterface\MovableInterface\obj\Debug\MovableInterface.exe
+E:\Swabhav Assignments\session 15\MovableInterface\MovableInterface\obj\Debug\MovableInterface.pdb
