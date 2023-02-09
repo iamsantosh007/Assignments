@@ -6,17 +6,20 @@ using System.Threading.Tasks;
 
 namespace MovableInterface.Models
 {
-    public class Truck:Movable
+    public class Truck:IMovable
     {
+        private string _brand;
+        private string _model;
         public Truck(string brand,string model)
         {
-            this.model = model;
-            this.brand = brand;
+           _model = model;
+            _brand = brand;
         }
-
-        public override void Move()
+        public string Brand { get { return _brand; } }
+        public string Model { get { return _model; } }
+        public void Move()
         {
-            Console.WriteLine($"The Truck is Moving of {this.brand} brand and having model {this.model}");
+            Console.WriteLine($"The Truck is Moving of {Brand} brand and having model {Model}");
         }
     }
 }

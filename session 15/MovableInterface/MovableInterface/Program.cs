@@ -26,7 +26,6 @@ namespace MovableInterface
                 moving.Move();
                 Console.WriteLine();
             }
-            
         }
     }
 }
