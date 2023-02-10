@@ -20,6 +20,7 @@ namespace CustumAttributeApp
             RefectorChecker(typeEmployee,employee);
             Console.WriteLine();
             RefectorChecker(typeStudent,student);
+            Console.WriteLine();
         }
 
         private static void RefectorChecker(Type type,object obj)

@@ -19,13 +19,13 @@ namespace CustumAttributeApp.Models
 
         public int Id { get { return _id; } }
         public string Name { get { return _name; } }
-        public void ShowDetails()
+        public void M1()
         {
             Console.WriteLine($"Id is {_id} and name is {_name}");
         }
 
         [RefectoredAttribute]
-        public void Welcome()
+        public void M2()
         {
             Console.WriteLine($"welcome to student app mr.{Name}");
         }
