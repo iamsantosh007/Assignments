@@ -1,0 +1,16 @@
+E:\Session\session 13\StudentProfessor\StudentProfessor\bin\Debug\StudentProfessor.exe.config
+E:\Session\session 13\StudentProfessor\StudentProfessor\bin\Debug\StudentProfessor.exe
+E:\Session\session 13\StudentProfessor\StudentProfessor\bin\Debug\StudentProfessor.pdb
+E:\Session\session 13\StudentProfessor\StudentProfessor\obj\Debug\StudentProfessor.csproj.AssemblyReference.cache
+E:\Session\session 13\StudentProfessor\StudentProfessor\obj\Debug\StudentProfessor.csproj.SuggestedBindingRedirects.cache
+E:\Session\session 13\StudentProfessor\StudentProfessor\obj\Debug\StudentProfessor.csproj.CoreCompileInputs.cache
+E:\Session\session 13\StudentProfessor\StudentProfessor\obj\Debug\StudentProfessor.exe
+E:\Session\session 13\StudentProfessor\StudentProfessor\obj\Debug\StudentProfessor.pdb
+E:\Session\session12\StudentProfessor\StudentProfessor\bin\Debug\StudentProfessor.exe.config
+E:\Session\session12\StudentProfessor\StudentProfessor\bin\Debug\StudentProfessor.exe
+E:\Session\session12\StudentProfessor\StudentProfessor\bin\Debug\StudentProfessor.pdb
+E:\Session\session12\StudentProfessor\StudentProfessor\obj\Debug\StudentProfessor.csproj.AssemblyReference.cache
+E:\Session\session12\StudentProfessor\StudentProfessor\obj\Debug\StudentProfessor.csproj.SuggestedBindingRedirects.cache
+E:\Session\session12\StudentProfessor\StudentProfessor\obj\Debug\StudentProfessor.csproj.CoreCompileInputs.cache
+E:\Session\session12\StudentProfessor\StudentProfessor\obj\Debug\StudentProfessor.exe
+E:\Session\session12\StudentProfessor\StudentProfessor\obj\Debug\StudentProfessor.pdb
