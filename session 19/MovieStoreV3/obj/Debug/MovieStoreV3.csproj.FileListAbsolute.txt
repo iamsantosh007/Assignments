@@ -1,0 +1,8 @@
+E:\SwabhavLiveSession\session_19\MovieStoreV3\bin\Debug\MovieStoreV3.exe.config
+E:\SwabhavLiveSession\session_19\MovieStoreV3\bin\Debug\MovieStoreV3.exe
+E:\SwabhavLiveSession\session_19\MovieStoreV3\bin\Debug\MovieStoreV3.pdb
+E:\SwabhavLiveSession\session_19\MovieStoreV3\obj\Debug\MovieStoreV3.csproj.AssemblyReference.cache
+E:\SwabhavLiveSession\session_19\MovieStoreV3\obj\Debug\MovieStoreV3.csproj.SuggestedBindingRedirects.cache
+E:\SwabhavLiveSession\session_19\MovieStoreV3\obj\Debug\MovieStoreV3.csproj.CoreCompileInputs.cache
+E:\SwabhavLiveSession\session_19\MovieStoreV3\obj\Debug\MovieStoreV3.exe
+E:\SwabhavLiveSession\session_19\MovieStoreV3\obj\Debug\MovieStoreV3.pdb

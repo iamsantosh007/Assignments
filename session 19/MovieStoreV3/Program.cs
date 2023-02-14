@@ -1,40 +1,33 @@
-﻿using MovieStoreV2.Models;
+﻿using MovieStoreV3.Models;
 using System;
 using System.Collections.Generic;
-using System.Configuration;
 using System.IO;
-using System.IO.Pipes;
 using System.Linq;
-using System.Runtime.Serialization;
+using System.Runtime.CompilerServices;
 using System.Runtime.Serialization.Formatters.Binary;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MovieStoreV2
+namespace MovieStoreV3
 {
-
-    class Program
+    public class Program
     {
-
-        
-        //public static BinaryFormatter formatter10 = new BinaryFormatter();
-       
-        
-        public static int idN = 0;
-        
+        //private static int limit;
         static void Main(string[] args)
         {
-            List<MovieClass> movieList = DeserializeMovieList();
-        
-            BinaryFormatter formatter = new BinaryFormatter();
-            MovieClass movieClassVar = new MovieClass();
+            
+            List<Movie> movieList = DeserializeMovieList();
+            int limit = 0;
+            limit = movieList.Count <= 5 ? 5 : movieList.Count;
+
             bool start = true;
             Console.WriteLine($"Welcome to movie store,Developed by santosh");
-            
+
 
             while (start)
-            {   ChangeFontColourForMenuLabels();
-                Console.WriteLine($"\t\tMovie count is " + movieList.Count + "/5\n" +
+            {
+                ChangeFontColourForMenuLabels();
+                Console.WriteLine($"\t\tMovie count is " + movieList.Count + $"/{limit}\n" +
                      "\t\t1-Add movie\n" +
                       "\t\t2-Display Movies\n" +
                       "\t\t3-clear all movies\n" +
@@ -46,14 +39,14 @@ namespace MovieStoreV2
                 switch (choice)
                 {
                     case 1:
-                        
+
                         Console.WriteLine("\t\t\t------------------------");
-                        AddMovie(movieList);
+                        AddMovie(movieList,limit);
                         Console.WriteLine("\t\t\t------------------------");
                         break;
 
                     case 2:
-                        
+
                         DisplayAllMovies(movieList);
                         break;
                     case 3:
@@ -67,16 +60,7 @@ namespace MovieStoreV2
             }
             Console.ReadLine();
         }
-
-
-        public static void DisplayAllMovies(List<MovieClass> movieList)
-        {
-            foreach (var movieClassVarw in movieList)
-            {
-                Console.WriteLine("Id is " + movieClassVarw.id + " movie name " + movieClassVarw.name + " and genere is " + movieClassVarw.genere + " movie year is " + movieClassVarw.year);
-            }
-        }
-        public static List<MovieClass> DeserializeMovieList()
+        public static List<Movie> DeserializeMovieList()
         {
 
             using (FileStream filepath = new FileStream("E:\\Swabhav Assignments\\session 19\\MovieStoreV2\\MovieClass.txt", FileMode.OpenOrCreate))
@@ -84,18 +68,36 @@ namespace MovieStoreV2
                 BinaryFormatter formatter10 = new BinaryFormatter();
                 if (filepath.Length > 0)
                 {
-                    return (List<MovieClass>)formatter10.Deserialize(filepath);
+                    return (List<Movie>)formatter10.Deserialize(filepath);
                 }
             }
-            return new List<MovieClass>();
+            return new List<Movie>();
+        }
+        public static void SerializedList(List<Movie> movieList)
+        {
+            using (FileStream filepath = new FileStream("E:\\Swabhav Assignments\\session 19\\MovieStoreV2\\MovieClass.txt", FileMode.OpenOrCreate))
+            {
+                BinaryFormatter formatter10 = new BinaryFormatter();
+                formatter10.Serialize(filepath, movieList);
+                Environment.Exit(-1);
+            }
         }
 
-        public static void AddMovie(List<MovieClass> movieList)
+        public static void AddMovie(List<Movie> movieList,int limit)
         {
-            if (movieList.Count >= 5)
+            if (movieList.Count == limit)
             {
                 Console.WriteLine("You Reach Limit");
-                return;
+                if (IncreasedArraySize(movieList,limit))
+                {
+                    Console.WriteLine("Bingo you choose to increase array");
+
+                }
+                else
+                {
+                    return;
+                }
+                
             }
             ChangeFontColourForAddMovieLabels();
             Console.Write("\t\t\tEnter the movie name:- ");
@@ -112,27 +114,41 @@ namespace MovieStoreV2
             ChangeColourForAddMovieInput();
             string movieGenere = Console.ReadLine();
 
-            MovieClass dataStore = new MovieClass().onCreate(name, year, movieGenere, movieList.Count);
+            Movie dataStore = new Movie() { Id=movieList.Count,Name=name,Year=year,Genere=movieGenere};
             movieList.Add(dataStore);
             ChangeFontColourForResult();
             Console.WriteLine("\t\t\t--Movie Added Successfully--");
             Console.ResetColor();
         }
 
-        public static void SerializedList(List<MovieClass> movieList)
+        private static bool IncreasedArraySize(List<Movie> movie,int limit)
         {
-            using (FileStream filepath = new FileStream("E:\\Swabhav Assignments\\session 19\\MovieStoreV2\\MovieClass.txt", FileMode.OpenOrCreate))
+            Console.Write("if you want to increase movie size press Y or N to exit");
+            char c=Convert.ToChar(Console.ReadLine().ToUpper());
+            if (c == 'Y')
             {
-                BinaryFormatter formatter10 = new BinaryFormatter();
-                formatter10.Serialize(filepath, movieList);
-                Environment.Exit(-1);
+                limit = limit * 2;
+                return true;
             }
+            Console.WriteLine("You choose to leave");
+            return false;
+
         }
 
+        public static void DisplayAllMovies(List<Movie> movieList)
+        {
+            foreach (var movieClassVarw in movieList)
+            {
+                ChangeColourForDisplay();
+                Console.WriteLine("\t\t\t\t\t\tMovie Details:-");
+                Console.WriteLine("\t\t\t\t\t\tId is " + movieClassVarw.Id + "\n\t\t\t\t\t\tmovie name " + movieClassVarw.Name + " \n\t\t\t\t\t\tgenere is " + movieClassVarw.Genere+ " \n\t\t\t\t\t\tmovie year is " + movieClassVarw.Year);
+                Console.ResetColor() ;
+            }
+        }
         private static void ChangeFontColourForResult()
         {
             Console.ForegroundColor = ConsoleColor.Green;
-            
+
         }
 
         private static void ChangeFontColourForAddMovieLabels()
@@ -148,7 +164,10 @@ namespace MovieStoreV2
 
         private static void ChangeFontColourForMenuLabels()
         {
-            Console.ForegroundColor= ConsoleColor.DarkYellow;
+            Console.ForegroundColor = ConsoleColor.DarkYellow;
+        }
+        private static void ChangeColourForDisplay() { 
+        Console.ForegroundColor= ConsoleColor.DarkCyan;
         }
     }
 }
