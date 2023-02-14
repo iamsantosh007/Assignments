@@ -1,0 +1,16 @@
+E:\Session\session12\MovieStoreV2\MovieStoreV2\obj\Debug\MovieStoreV2.csproj.AssemblyReference.cache
+E:\Session\session12\MovieStoreV2\MovieStoreV2\obj\Debug\MovieStoreV2.csproj.SuggestedBindingRedirects.cache
+E:\Session\session12\MovieStoreV2\MovieStoreV2\obj\Debug\MovieStoreV2.csproj.CoreCompileInputs.cache
+E:\Session\session12\MovieStoreV2\MovieStoreV2\bin\Debug\MovieStoreV2.exe.config
+E:\Session\session12\MovieStoreV2\MovieStoreV2\bin\Debug\MovieStoreV2.exe
+E:\Session\session12\MovieStoreV2\MovieStoreV2\bin\Debug\MovieStoreV2.pdb
+E:\Session\session12\MovieStoreV2\MovieStoreV2\obj\Debug\MovieStoreV2.exe
+E:\Session\session12\MovieStoreV2\MovieStoreV2\obj\Debug\MovieStoreV2.pdb
+E:\Swabhav Assignments\session 19\MovieStoreV2\MovieStoreV2\bin\Debug\MovieStoreV2.exe.config
+E:\Swabhav Assignments\session 19\MovieStoreV2\MovieStoreV2\bin\Debug\MovieStoreV2.exe
+E:\Swabhav Assignments\session 19\MovieStoreV2\MovieStoreV2\bin\Debug\MovieStoreV2.pdb
+E:\Swabhav Assignments\session 19\MovieStoreV2\MovieStoreV2\obj\Debug\MovieStoreV2.csproj.AssemblyReference.cache
+E:\Swabhav Assignments\session 19\MovieStoreV2\MovieStoreV2\obj\Debug\MovieStoreV2.csproj.SuggestedBindingRedirects.cache
+E:\Swabhav Assignments\session 19\MovieStoreV2\MovieStoreV2\obj\Debug\MovieStoreV2.csproj.CoreCompileInputs.cache
+E:\Swabhav Assignments\session 19\MovieStoreV2\MovieStoreV2\obj\Debug\MovieStoreV2.exe
+E:\Swabhav Assignments\session 19\MovieStoreV2\MovieStoreV2\obj\Debug\MovieStoreV2.pdb
