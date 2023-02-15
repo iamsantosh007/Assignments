@@ -1,0 +1,30 @@
+E:\SwabhavLiveSession\session_20\DynamicArrayInt\obj\Debug\net6.0\DynamicArrayInt.csproj.AssemblyReference.cache
+E:\SwabhavLiveSession\session_20\DynamicArrayInt\obj\Debug\net6.0\DynamicArrayInt.GeneratedMSBuildEditorConfig.editorconfig
+E:\SwabhavLiveSession\session_20\DynamicArrayInt\obj\Debug\net6.0\DynamicArrayInt.AssemblyInfoInputs.cache
+E:\SwabhavLiveSession\session_20\DynamicArrayInt\obj\Debug\net6.0\DynamicArrayInt.AssemblyInfo.cs
+E:\SwabhavLiveSession\session_20\DynamicArrayInt\obj\Debug\net6.0\DynamicArrayInt.csproj.CoreCompileInputs.cache
+E:\SwabhavLiveSession\session_20\DynamicArrayInt\bin\Debug\net6.0\DynamicArrayInt.exe
+E:\SwabhavLiveSession\session_20\DynamicArrayInt\bin\Debug\net6.0\DynamicArrayInt.deps.json
+E:\SwabhavLiveSession\session_20\DynamicArrayInt\bin\Debug\net6.0\DynamicArrayInt.runtimeconfig.json
+E:\SwabhavLiveSession\session_20\DynamicArrayInt\bin\Debug\net6.0\DynamicArrayInt.dll
+E:\SwabhavLiveSession\session_20\DynamicArrayInt\bin\Debug\net6.0\DynamicArrayInt.pdb
+E:\SwabhavLiveSession\session_20\DynamicArrayInt\obj\Debug\net6.0\DynamicArrayInt.dll
+E:\SwabhavLiveSession\session_20\DynamicArrayInt\obj\Debug\net6.0\refint\DynamicArrayInt.dll
+E:\SwabhavLiveSession\session_20\DynamicArrayInt\obj\Debug\net6.0\DynamicArrayInt.pdb
+E:\SwabhavLiveSession\session_20\DynamicArrayInt\obj\Debug\net6.0\DynamicArrayInt.genruntimeconfig.cache
+E:\SwabhavLiveSession\session_20\DynamicArrayInt\obj\Debug\net6.0\ref\DynamicArrayInt.dll
+E:\Swabhav Assignments\session 20\DynamicArrayInt\bin\Debug\net6.0\DynamicArrayInt.exe
+E:\Swabhav Assignments\session 20\DynamicArrayInt\bin\Debug\net6.0\DynamicArrayInt.deps.json
+E:\Swabhav Assignments\session 20\DynamicArrayInt\bin\Debug\net6.0\DynamicArrayInt.runtimeconfig.json
+E:\Swabhav Assignments\session 20\DynamicArrayInt\bin\Debug\net6.0\DynamicArrayInt.dll
+E:\Swabhav Assignments\session 20\DynamicArrayInt\bin\Debug\net6.0\DynamicArrayInt.pdb
+E:\Swabhav Assignments\session 20\DynamicArrayInt\obj\Debug\net6.0\DynamicArrayInt.csproj.AssemblyReference.cache
+E:\Swabhav Assignments\session 20\DynamicArrayInt\obj\Debug\net6.0\DynamicArrayInt.GeneratedMSBuildEditorConfig.editorconfig
+E:\Swabhav Assignments\session 20\DynamicArrayInt\obj\Debug\net6.0\DynamicArrayInt.AssemblyInfoInputs.cache
+E:\Swabhav Assignments\session 20\DynamicArrayInt\obj\Debug\net6.0\DynamicArrayInt.AssemblyInfo.cs
+E:\Swabhav Assignments\session 20\DynamicArrayInt\obj\Debug\net6.0\DynamicArrayInt.csproj.CoreCompileInputs.cache
+E:\Swabhav Assignments\session 20\DynamicArrayInt\obj\Debug\net6.0\DynamicArrayInt.dll
+E:\Swabhav Assignments\session 20\DynamicArrayInt\obj\Debug\net6.0\refint\DynamicArrayInt.dll
+E:\Swabhav Assignments\session 20\DynamicArrayInt\obj\Debug\net6.0\DynamicArrayInt.pdb
+E:\Swabhav Assignments\session 20\DynamicArrayInt\obj\Debug\net6.0\DynamicArrayInt.genruntimeconfig.cache
+E:\Swabhav Assignments\session 20\DynamicArrayInt\obj\Debug\net6.0\ref\DynamicArrayInt.dll
