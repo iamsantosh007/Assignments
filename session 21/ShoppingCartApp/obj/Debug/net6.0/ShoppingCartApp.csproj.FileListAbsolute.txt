@@ -1,0 +1,15 @@
+E:\SwabhavLiveSession\session_21\ShoppingCartApp\bin\Debug\net6.0\ShoppingCartApp.exe
+E:\SwabhavLiveSession\session_21\ShoppingCartApp\bin\Debug\net6.0\ShoppingCartApp.deps.json
+E:\SwabhavLiveSession\session_21\ShoppingCartApp\bin\Debug\net6.0\ShoppingCartApp.runtimeconfig.json
+E:\SwabhavLiveSession\session_21\ShoppingCartApp\bin\Debug\net6.0\ShoppingCartApp.dll
+E:\SwabhavLiveSession\session_21\ShoppingCartApp\bin\Debug\net6.0\ShoppingCartApp.pdb
+E:\SwabhavLiveSession\session_21\ShoppingCartApp\obj\Debug\net6.0\ShoppingCartApp.csproj.AssemblyReference.cache
+E:\SwabhavLiveSession\session_21\ShoppingCartApp\obj\Debug\net6.0\ShoppingCartApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\SwabhavLiveSession\session_21\ShoppingCartApp\obj\Debug\net6.0\ShoppingCartApp.AssemblyInfoInputs.cache
+E:\SwabhavLiveSession\session_21\ShoppingCartApp\obj\Debug\net6.0\ShoppingCartApp.AssemblyInfo.cs
+E:\SwabhavLiveSession\session_21\ShoppingCartApp\obj\Debug\net6.0\ShoppingCartApp.csproj.CoreCompileInputs.cache
+E:\SwabhavLiveSession\session_21\ShoppingCartApp\obj\Debug\net6.0\ShoppingCartApp.dll
+E:\SwabhavLiveSession\session_21\ShoppingCartApp\obj\Debug\net6.0\refint\ShoppingCartApp.dll
+E:\SwabhavLiveSession\session_21\ShoppingCartApp\obj\Debug\net6.0\ShoppingCartApp.pdb
+E:\SwabhavLiveSession\session_21\ShoppingCartApp\obj\Debug\net6.0\ShoppingCartApp.genruntimeconfig.cache
+E:\SwabhavLiveSession\session_21\ShoppingCartApp\obj\Debug\net6.0\ref\ShoppingCartApp.dll
