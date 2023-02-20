@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuitarInventryLibrary", "GuitarInventryLibrary\GuitarInventryLibrary.csproj", "{BD818DCC-B3A7-402C-B20E-F33A7F610372}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuitarInventry", "GuitarInventry\GuitarInventry.csproj", "{8F2492FE-CA0B-4E20-B3BE-DC99111DA6E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD818DCC-B3A7-402C-B20E-F33A7F610372}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD818DCC-B3A7-402C-B20E-F33A7F610372}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD818DCC-B3A7-402C-B20E-F33A7F610372}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD818DCC-B3A7-402C-B20E-F33A7F610372}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F2492FE-CA0B-4E20-B3BE-DC99111DA6E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F2492FE-CA0B-4E20-B3BE-DC99111DA6E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F2492FE-CA0B-4E20-B3BE-DC99111DA6E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F2492FE-CA0B-4E20-B3BE-DC99111DA6E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F67F226D-2CC2-4D67-BBBC-FDB91E62CE34}
+	EndGlobalSection
+EndGlobal

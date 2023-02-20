@@ -1,0 +1,16 @@
+E:\Session\session 19\GuitarInventryLibrary\GuitarInventry\obj\Debug\GuitarInventry.csproj.AssemblyReference.cache
+E:\Session\session 19\GuitarInventryLibrary\GuitarInventry\obj\Debug\GuitarInventry.csproj.CoreCompileInputs.cache
+E:\Session\session 19\GuitarInventryLibrary\GuitarInventry\bin\Debug\GuitarInventry.pdb
+E:\Session\session 19\GuitarInventryLibrary\GuitarInventry\obj\Debug\GuitarInventry.pdb
+E:\Session\session 19\GuitarInventryLibrary\GuitarInventry\bin\Debug\GuitarInventry.exe.config
+E:\Session\session 19\GuitarInventryLibrary\GuitarInventry\bin\Debug\GuitarInventry.exe
+E:\Session\session 19\GuitarInventryLibrary\GuitarInventry\obj\Debug\GuitarInventry.csproj.SuggestedBindingRedirects.cache
+E:\Session\session 19\GuitarInventryLibrary\GuitarInventry\obj\Debug\GuitarInventry.exe
+E:\Swabhav Assignments\session 23\GuitarInventryLibrary\GuitarInventry\obj\Debug\GuitarInventry.csproj.AssemblyReference.cache
+E:\Swabhav Assignments\session 23\GuitarInventryLibrary\GuitarInventry\obj\Debug\GuitarInventry.csproj.SuggestedBindingRedirects.cache
+E:\Swabhav Assignments\session 23\GuitarInventryLibrary\GuitarInventry\obj\Debug\GuitarInventry.csproj.CoreCompileInputs.cache
+E:\Swabhav Assignments\session 23\GuitarInventryLibrary\GuitarInventry\obj\Debug\GuitarInventry.exe
+E:\Swabhav Assignments\session 23\GuitarInventryLibrary\GuitarInventry\obj\Debug\GuitarInventry.pdb
+E:\Swabhav Assignments\session 23\GuitarInventryLibrary\GuitarInventry\bin\Debug\GuitarInventry.exe.config
+E:\Swabhav Assignments\session 23\GuitarInventryLibrary\GuitarInventry\bin\Debug\GuitarInventry.exe
+E:\Swabhav Assignments\session 23\GuitarInventryLibrary\GuitarInventry\bin\Debug\GuitarInventry.pdb
