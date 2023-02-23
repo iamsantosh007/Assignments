@@ -1,0 +1,15 @@
+E:\Swabhav Assignments\session 25\LSPSolution\LSPSolution\obj\Debug\net6.0\LSPSolution.csproj.AssemblyReference.cache
+E:\Swabhav Assignments\session 25\LSPSolution\LSPSolution\obj\Debug\net6.0\LSPSolution.GeneratedMSBuildEditorConfig.editorconfig
+E:\Swabhav Assignments\session 25\LSPSolution\LSPSolution\obj\Debug\net6.0\LSPSolution.AssemblyInfoInputs.cache
+E:\Swabhav Assignments\session 25\LSPSolution\LSPSolution\obj\Debug\net6.0\LSPSolution.AssemblyInfo.cs
+E:\Swabhav Assignments\session 25\LSPSolution\LSPSolution\obj\Debug\net6.0\LSPSolution.csproj.CoreCompileInputs.cache
+E:\Swabhav Assignments\session 25\LSPSolution\LSPSolution\bin\Debug\net6.0\LSPSolution.exe
+E:\Swabhav Assignments\session 25\LSPSolution\LSPSolution\bin\Debug\net6.0\LSPSolution.deps.json
+E:\Swabhav Assignments\session 25\LSPSolution\LSPSolution\bin\Debug\net6.0\LSPSolution.runtimeconfig.json
+E:\Swabhav Assignments\session 25\LSPSolution\LSPSolution\bin\Debug\net6.0\LSPSolution.dll
+E:\Swabhav Assignments\session 25\LSPSolution\LSPSolution\bin\Debug\net6.0\LSPSolution.pdb
+E:\Swabhav Assignments\session 25\LSPSolution\LSPSolution\obj\Debug\net6.0\LSPSolution.dll
+E:\Swabhav Assignments\session 25\LSPSolution\LSPSolution\obj\Debug\net6.0\refint\LSPSolution.dll
+E:\Swabhav Assignments\session 25\LSPSolution\LSPSolution\obj\Debug\net6.0\LSPSolution.pdb
+E:\Swabhav Assignments\session 25\LSPSolution\LSPSolution\obj\Debug\net6.0\LSPSolution.genruntimeconfig.cache
+E:\Swabhav Assignments\session 25\LSPSolution\LSPSolution\obj\Debug\net6.0\ref\LSPSolution.dll

@@ -1,0 +1,15 @@
+E:\Swabhav Assignments\session 26\BoardGame\BoardGame\bin\Debug\net6.0\BoardGame.exe
+E:\Swabhav Assignments\session 26\BoardGame\BoardGame\bin\Debug\net6.0\BoardGame.deps.json
+E:\Swabhav Assignments\session 26\BoardGame\BoardGame\bin\Debug\net6.0\BoardGame.runtimeconfig.json
+E:\Swabhav Assignments\session 26\BoardGame\BoardGame\bin\Debug\net6.0\BoardGame.dll
+E:\Swabhav Assignments\session 26\BoardGame\BoardGame\bin\Debug\net6.0\BoardGame.pdb
+E:\Swabhav Assignments\session 26\BoardGame\BoardGame\obj\Debug\net6.0\BoardGame.csproj.AssemblyReference.cache
+E:\Swabhav Assignments\session 26\BoardGame\BoardGame\obj\Debug\net6.0\BoardGame.GeneratedMSBuildEditorConfig.editorconfig
+E:\Swabhav Assignments\session 26\BoardGame\BoardGame\obj\Debug\net6.0\BoardGame.AssemblyInfoInputs.cache
+E:\Swabhav Assignments\session 26\BoardGame\BoardGame\obj\Debug\net6.0\BoardGame.AssemblyInfo.cs
+E:\Swabhav Assignments\session 26\BoardGame\BoardGame\obj\Debug\net6.0\BoardGame.csproj.CoreCompileInputs.cache
+E:\Swabhav Assignments\session 26\BoardGame\BoardGame\obj\Debug\net6.0\BoardGame.dll
+E:\Swabhav Assignments\session 26\BoardGame\BoardGame\obj\Debug\net6.0\refint\BoardGame.dll
+E:\Swabhav Assignments\session 26\BoardGame\BoardGame\obj\Debug\net6.0\BoardGame.pdb
+E:\Swabhav Assignments\session 26\BoardGame\BoardGame\obj\Debug\net6.0\BoardGame.genruntimeconfig.cache
+E:\Swabhav Assignments\session 26\BoardGame\BoardGame\obj\Debug\net6.0\ref\BoardGame.dll

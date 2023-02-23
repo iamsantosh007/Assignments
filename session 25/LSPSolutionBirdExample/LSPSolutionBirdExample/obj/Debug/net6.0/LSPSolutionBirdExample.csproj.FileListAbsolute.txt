@@ -1,0 +1,15 @@
+E:\Swabhav Assignments\session 25\LSPSolutionBirdExample\LSPSolutionBirdExample\bin\Debug\net6.0\LSPSolutionBirdExample.exe
+E:\Swabhav Assignments\session 25\LSPSolutionBirdExample\LSPSolutionBirdExample\bin\Debug\net6.0\LSPSolutionBirdExample.deps.json
+E:\Swabhav Assignments\session 25\LSPSolutionBirdExample\LSPSolutionBirdExample\bin\Debug\net6.0\LSPSolutionBirdExample.runtimeconfig.json
+E:\Swabhav Assignments\session 25\LSPSolutionBirdExample\LSPSolutionBirdExample\bin\Debug\net6.0\LSPSolutionBirdExample.dll
+E:\Swabhav Assignments\session 25\LSPSolutionBirdExample\LSPSolutionBirdExample\bin\Debug\net6.0\LSPSolutionBirdExample.pdb
+E:\Swabhav Assignments\session 25\LSPSolutionBirdExample\LSPSolutionBirdExample\obj\Debug\net6.0\LSPSolutionBirdExample.csproj.AssemblyReference.cache
+E:\Swabhav Assignments\session 25\LSPSolutionBirdExample\LSPSolutionBirdExample\obj\Debug\net6.0\LSPSolutionBirdExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Swabhav Assignments\session 25\LSPSolutionBirdExample\LSPSolutionBirdExample\obj\Debug\net6.0\LSPSolutionBirdExample.AssemblyInfoInputs.cache
+E:\Swabhav Assignments\session 25\LSPSolutionBirdExample\LSPSolutionBirdExample\obj\Debug\net6.0\LSPSolutionBirdExample.AssemblyInfo.cs
+E:\Swabhav Assignments\session 25\LSPSolutionBirdExample\LSPSolutionBirdExample\obj\Debug\net6.0\LSPSolutionBirdExample.csproj.CoreCompileInputs.cache
+E:\Swabhav Assignments\session 25\LSPSolutionBirdExample\LSPSolutionBirdExample\obj\Debug\net6.0\LSPSolutionBirdExample.dll
+E:\Swabhav Assignments\session 25\LSPSolutionBirdExample\LSPSolutionBirdExample\obj\Debug\net6.0\refint\LSPSolutionBirdExample.dll
+E:\Swabhav Assignments\session 25\LSPSolutionBirdExample\LSPSolutionBirdExample\obj\Debug\net6.0\LSPSolutionBirdExample.pdb
+E:\Swabhav Assignments\session 25\LSPSolutionBirdExample\LSPSolutionBirdExample\obj\Debug\net6.0\LSPSolutionBirdExample.genruntimeconfig.cache
+E:\Swabhav Assignments\session 25\LSPSolutionBirdExample\LSPSolutionBirdExample\obj\Debug\net6.0\ref\LSPSolutionBirdExample.dll
