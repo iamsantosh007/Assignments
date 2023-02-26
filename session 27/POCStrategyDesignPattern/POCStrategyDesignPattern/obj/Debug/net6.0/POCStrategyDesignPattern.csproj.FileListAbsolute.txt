@@ -1,0 +1,15 @@
+E:\Swabhav Assignments\session 27\POCStrategyDesignPattern\POCStrategyDesignPattern\bin\Debug\net6.0\POCStrategyDesignPattern.exe
+E:\Swabhav Assignments\session 27\POCStrategyDesignPattern\POCStrategyDesignPattern\bin\Debug\net6.0\POCStrategyDesignPattern.deps.json
+E:\Swabhav Assignments\session 27\POCStrategyDesignPattern\POCStrategyDesignPattern\bin\Debug\net6.0\POCStrategyDesignPattern.runtimeconfig.json
+E:\Swabhav Assignments\session 27\POCStrategyDesignPattern\POCStrategyDesignPattern\bin\Debug\net6.0\POCStrategyDesignPattern.dll
+E:\Swabhav Assignments\session 27\POCStrategyDesignPattern\POCStrategyDesignPattern\bin\Debug\net6.0\POCStrategyDesignPattern.pdb
+E:\Swabhav Assignments\session 27\POCStrategyDesignPattern\POCStrategyDesignPattern\obj\Debug\net6.0\POCStrategyDesignPattern.csproj.AssemblyReference.cache
+E:\Swabhav Assignments\session 27\POCStrategyDesignPattern\POCStrategyDesignPattern\obj\Debug\net6.0\POCStrategyDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\Swabhav Assignments\session 27\POCStrategyDesignPattern\POCStrategyDesignPattern\obj\Debug\net6.0\POCStrategyDesignPattern.AssemblyInfoInputs.cache
+E:\Swabhav Assignments\session 27\POCStrategyDesignPattern\POCStrategyDesignPattern\obj\Debug\net6.0\POCStrategyDesignPattern.AssemblyInfo.cs
+E:\Swabhav Assignments\session 27\POCStrategyDesignPattern\POCStrategyDesignPattern\obj\Debug\net6.0\POCStrategyDesignPattern.csproj.CoreCompileInputs.cache
+E:\Swabhav Assignments\session 27\POCStrategyDesignPattern\POCStrategyDesignPattern\obj\Debug\net6.0\POCStrategyDesignPattern.dll
+E:\Swabhav Assignments\session 27\POCStrategyDesignPattern\POCStrategyDesignPattern\obj\Debug\net6.0\refint\POCStrategyDesignPattern.dll
+E:\Swabhav Assignments\session 27\POCStrategyDesignPattern\POCStrategyDesignPattern\obj\Debug\net6.0\POCStrategyDesignPattern.pdb
+E:\Swabhav Assignments\session 27\POCStrategyDesignPattern\POCStrategyDesignPattern\obj\Debug\net6.0\POCStrategyDesignPattern.genruntimeconfig.cache
+E:\Swabhav Assignments\session 27\POCStrategyDesignPattern\POCStrategyDesignPattern\obj\Debug\net6.0\ref\POCStrategyDesignPattern.dll
