@@ -1,0 +1,15 @@
+E:\Swabhav Assignments\session 28\PocSingleTonDesignPattern\PocSingleTonDesignPattern\bin\Debug\net6.0\PocSingleTonDesignPattern.exe
+E:\Swabhav Assignments\session 28\PocSingleTonDesignPattern\PocSingleTonDesignPattern\bin\Debug\net6.0\PocSingleTonDesignPattern.deps.json
+E:\Swabhav Assignments\session 28\PocSingleTonDesignPattern\PocSingleTonDesignPattern\bin\Debug\net6.0\PocSingleTonDesignPattern.runtimeconfig.json
+E:\Swabhav Assignments\session 28\PocSingleTonDesignPattern\PocSingleTonDesignPattern\bin\Debug\net6.0\PocSingleTonDesignPattern.dll
+E:\Swabhav Assignments\session 28\PocSingleTonDesignPattern\PocSingleTonDesignPattern\bin\Debug\net6.0\PocSingleTonDesignPattern.pdb
+E:\Swabhav Assignments\session 28\PocSingleTonDesignPattern\PocSingleTonDesignPattern\obj\Debug\net6.0\PocSingleTonDesignPattern.csproj.AssemblyReference.cache
+E:\Swabhav Assignments\session 28\PocSingleTonDesignPattern\PocSingleTonDesignPattern\obj\Debug\net6.0\PocSingleTonDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\Swabhav Assignments\session 28\PocSingleTonDesignPattern\PocSingleTonDesignPattern\obj\Debug\net6.0\PocSingleTonDesignPattern.AssemblyInfoInputs.cache
+E:\Swabhav Assignments\session 28\PocSingleTonDesignPattern\PocSingleTonDesignPattern\obj\Debug\net6.0\PocSingleTonDesignPattern.AssemblyInfo.cs
+E:\Swabhav Assignments\session 28\PocSingleTonDesignPattern\PocSingleTonDesignPattern\obj\Debug\net6.0\PocSingleTonDesignPattern.csproj.CoreCompileInputs.cache
+E:\Swabhav Assignments\session 28\PocSingleTonDesignPattern\PocSingleTonDesignPattern\obj\Debug\net6.0\PocSingleTonDesignPattern.dll
+E:\Swabhav Assignments\session 28\PocSingleTonDesignPattern\PocSingleTonDesignPattern\obj\Debug\net6.0\refint\PocSingleTonDesignPattern.dll
+E:\Swabhav Assignments\session 28\PocSingleTonDesignPattern\PocSingleTonDesignPattern\obj\Debug\net6.0\PocSingleTonDesignPattern.pdb
+E:\Swabhav Assignments\session 28\PocSingleTonDesignPattern\PocSingleTonDesignPattern\obj\Debug\net6.0\PocSingleTonDesignPattern.genruntimeconfig.cache
+E:\Swabhav Assignments\session 28\PocSingleTonDesignPattern\PocSingleTonDesignPattern\obj\Debug\net6.0\ref\PocSingleTonDesignPattern.dll
