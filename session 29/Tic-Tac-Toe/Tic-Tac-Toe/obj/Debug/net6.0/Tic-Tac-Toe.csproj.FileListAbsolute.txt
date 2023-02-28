@@ -1,0 +1,12 @@
+E:\SwabhavLiveSession\session_27\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\net6.0\Tic-Tac-Toe.csproj.AssemblyReference.cache
+E:\SwabhavLiveSession\session_27\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\net6.0\Tic-Tac-Toe.GeneratedMSBuildEditorConfig.editorconfig
+E:\SwabhavLiveSession\session_27\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\net6.0\Tic-Tac-Toe.AssemblyInfoInputs.cache
+E:\SwabhavLiveSession\session_27\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\net6.0\Tic-Tac-Toe.AssemblyInfo.cs
+E:\SwabhavLiveSession\session_27\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\net6.0\Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+E:\SwabhavLiveSession\session_27\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\net6.0\Tic-Tac-Toe.deps.json
+E:\SwabhavLiveSession\session_27\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\net6.0\Tic-Tac-Toe.dll
+E:\SwabhavLiveSession\session_27\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\net6.0\Tic-Tac-Toe.pdb
+E:\SwabhavLiveSession\session_27\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\net6.0\Tic-Tac-Toe.dll
+E:\SwabhavLiveSession\session_27\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\net6.0\refint\Tic-Tac-Toe.dll
+E:\SwabhavLiveSession\session_27\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\net6.0\Tic-Tac-Toe.pdb
+E:\SwabhavLiveSession\session_27\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\net6.0\ref\Tic-Tac-Toe.dll

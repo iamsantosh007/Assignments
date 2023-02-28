@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GamePlay/1.0.0": {
+        "dependencies": {
+          "Tic-Tac-Toe": "1.0.0"
+        },
+        "runtime": {
+          "GamePlay.dll": {}
+        }
+      },
+      "Tic-Tac-Toe/1.0.0": {
+        "runtime": {
+          "Tic-Tac-Toe.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GamePlay/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tic-Tac-Toe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
