@@ -1,0 +1,16 @@
+.side1{
+    width: 50%;
+    float: left;
+    height: 300px;
+    /* border: 2px solid rgb(0, 255, 106); */
+}
+
+.side2{
+    margin-left: 50%;
+    height: 300px;
+    /* border: 2px solid red; */
+}
+
+#btn{
+    margin-left: 400px;; 
+}
