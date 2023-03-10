@@ -1,0 +1,15 @@
+E:\Swabhav Assignments\session 34\HtmlElementHirerchyApp\HtmlElementHirerchyApp\bin\Debug\net6.0\HtmlElementHirerchyApp.exe
+E:\Swabhav Assignments\session 34\HtmlElementHirerchyApp\HtmlElementHirerchyApp\bin\Debug\net6.0\HtmlElementHirerchyApp.deps.json
+E:\Swabhav Assignments\session 34\HtmlElementHirerchyApp\HtmlElementHirerchyApp\bin\Debug\net6.0\HtmlElementHirerchyApp.runtimeconfig.json
+E:\Swabhav Assignments\session 34\HtmlElementHirerchyApp\HtmlElementHirerchyApp\bin\Debug\net6.0\HtmlElementHirerchyApp.dll
+E:\Swabhav Assignments\session 34\HtmlElementHirerchyApp\HtmlElementHirerchyApp\bin\Debug\net6.0\HtmlElementHirerchyApp.pdb
+E:\Swabhav Assignments\session 34\HtmlElementHirerchyApp\HtmlElementHirerchyApp\obj\Debug\net6.0\HtmlElementHirerchyApp.csproj.AssemblyReference.cache
+E:\Swabhav Assignments\session 34\HtmlElementHirerchyApp\HtmlElementHirerchyApp\obj\Debug\net6.0\HtmlElementHirerchyApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Swabhav Assignments\session 34\HtmlElementHirerchyApp\HtmlElementHirerchyApp\obj\Debug\net6.0\HtmlElementHirerchyApp.AssemblyInfoInputs.cache
+E:\Swabhav Assignments\session 34\HtmlElementHirerchyApp\HtmlElementHirerchyApp\obj\Debug\net6.0\HtmlElementHirerchyApp.AssemblyInfo.cs
+E:\Swabhav Assignments\session 34\HtmlElementHirerchyApp\HtmlElementHirerchyApp\obj\Debug\net6.0\HtmlElementHirerchyApp.csproj.CoreCompileInputs.cache
+E:\Swabhav Assignments\session 34\HtmlElementHirerchyApp\HtmlElementHirerchyApp\obj\Debug\net6.0\HtmlElementHirerchyApp.dll
+E:\Swabhav Assignments\session 34\HtmlElementHirerchyApp\HtmlElementHirerchyApp\obj\Debug\net6.0\refint\HtmlElementHirerchyApp.dll
+E:\Swabhav Assignments\session 34\HtmlElementHirerchyApp\HtmlElementHirerchyApp\obj\Debug\net6.0\HtmlElementHirerchyApp.pdb
+E:\Swabhav Assignments\session 34\HtmlElementHirerchyApp\HtmlElementHirerchyApp\obj\Debug\net6.0\HtmlElementHirerchyApp.genruntimeconfig.cache
+E:\Swabhav Assignments\session 34\HtmlElementHirerchyApp\HtmlElementHirerchyApp\obj\Debug\net6.0\ref\HtmlElementHirerchyApp.dll

@@ -1,0 +1,10 @@
+.parent {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .child {
+    width: 30%;
+    height: 100px;
+    background-color: lightblue;
+  }

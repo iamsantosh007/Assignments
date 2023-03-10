@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DIPSolutionConsoleApp/1.0.0": {
+        "dependencies": {
+          "DIPSolutionCoreLib": "1.0.0"
+        },
+        "runtime": {
+          "DIPSolutionConsoleApp.dll": {}
+        }
+      },
+      "DIPSolutionCoreLib/1.0.0": {
+        "runtime": {
+          "DIPSolutionCoreLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DIPSolutionConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DIPSolutionCoreLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

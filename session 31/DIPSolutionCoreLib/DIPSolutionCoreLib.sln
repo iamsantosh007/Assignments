@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIPSolutionCoreLib", "DIPSolutionCoreLib\DIPSolutionCoreLib.csproj", "{D7B07FB3-AF23-45AD-8960-741A752773F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIPSolutionConsoleApp", "DIPSolutionConsoleApp\DIPSolutionConsoleApp.csproj", "{73E8BBC9-9006-4B7F-AD2E-B01CD58D3C88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7B07FB3-AF23-45AD-8960-741A752773F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7B07FB3-AF23-45AD-8960-741A752773F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7B07FB3-AF23-45AD-8960-741A752773F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7B07FB3-AF23-45AD-8960-741A752773F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73E8BBC9-9006-4B7F-AD2E-B01CD58D3C88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73E8BBC9-9006-4B7F-AD2E-B01CD58D3C88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73E8BBC9-9006-4B7F-AD2E-B01CD58D3C88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73E8BBC9-9006-4B7F-AD2E-B01CD58D3C88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48D0C708-870C-48F1-8C03-396D42A22092}
+	EndGlobalSection
+EndGlobal

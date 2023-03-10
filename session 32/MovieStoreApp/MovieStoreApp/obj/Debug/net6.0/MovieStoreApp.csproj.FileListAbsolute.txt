@@ -1,0 +1,15 @@
+E:\SwabhavLiveSession\session_32\MovieStoreApp\MovieStoreApp\obj\Debug\net6.0\MovieStoreApp.csproj.AssemblyReference.cache
+E:\SwabhavLiveSession\session_32\MovieStoreApp\MovieStoreApp\obj\Debug\net6.0\MovieStoreApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\SwabhavLiveSession\session_32\MovieStoreApp\MovieStoreApp\obj\Debug\net6.0\MovieStoreApp.AssemblyInfoInputs.cache
+E:\SwabhavLiveSession\session_32\MovieStoreApp\MovieStoreApp\obj\Debug\net6.0\MovieStoreApp.AssemblyInfo.cs
+E:\SwabhavLiveSession\session_32\MovieStoreApp\MovieStoreApp\obj\Debug\net6.0\MovieStoreApp.csproj.CoreCompileInputs.cache
+E:\SwabhavLiveSession\session_32\MovieStoreApp\MovieStoreApp\bin\Debug\net6.0\MovieStoreApp.exe
+E:\SwabhavLiveSession\session_32\MovieStoreApp\MovieStoreApp\bin\Debug\net6.0\MovieStoreApp.deps.json
+E:\SwabhavLiveSession\session_32\MovieStoreApp\MovieStoreApp\bin\Debug\net6.0\MovieStoreApp.runtimeconfig.json
+E:\SwabhavLiveSession\session_32\MovieStoreApp\MovieStoreApp\bin\Debug\net6.0\MovieStoreApp.dll
+E:\SwabhavLiveSession\session_32\MovieStoreApp\MovieStoreApp\bin\Debug\net6.0\MovieStoreApp.pdb
+E:\SwabhavLiveSession\session_32\MovieStoreApp\MovieStoreApp\obj\Debug\net6.0\MovieStoreApp.dll
+E:\SwabhavLiveSession\session_32\MovieStoreApp\MovieStoreApp\obj\Debug\net6.0\refint\MovieStoreApp.dll
+E:\SwabhavLiveSession\session_32\MovieStoreApp\MovieStoreApp\obj\Debug\net6.0\MovieStoreApp.pdb
+E:\SwabhavLiveSession\session_32\MovieStoreApp\MovieStoreApp\obj\Debug\net6.0\MovieStoreApp.genruntimeconfig.cache
+E:\SwabhavLiveSession\session_32\MovieStoreApp\MovieStoreApp\obj\Debug\net6.0\ref\MovieStoreApp.dll

@@ -1,0 +1,26 @@
+E:\SwabhavLiveSession\session_25\FixedDepositryLibrary\ICICIConsoleApp\bin\Debug\net6.0\ICICIConsoleApp.exe
+E:\SwabhavLiveSession\session_25\FixedDepositryLibrary\ICICIConsoleApp\bin\Debug\net6.0\ICICIConsoleApp.deps.json
+E:\SwabhavLiveSession\session_25\FixedDepositryLibrary\ICICIConsoleApp\bin\Debug\net6.0\ICICIConsoleApp.runtimeconfig.json
+E:\SwabhavLiveSession\session_25\FixedDepositryLibrary\ICICIConsoleApp\bin\Debug\net6.0\ICICIConsoleApp.dll
+E:\SwabhavLiveSession\session_25\FixedDepositryLibrary\ICICIConsoleApp\bin\Debug\net6.0\ICICIConsoleApp.pdb
+E:\SwabhavLiveSession\session_25\FixedDepositryLibrary\ICICIConsoleApp\bin\Debug\net6.0\FixedDepositryLibrary.dll
+E:\SwabhavLiveSession\session_25\FixedDepositryLibrary\ICICIConsoleApp\bin\Debug\net6.0\FixedDepositryLibrary.pdb
+E:\SwabhavLiveSession\session_25\FixedDepositryLibrary\ICICIConsoleApp\obj\Debug\net6.0\ICICIConsoleApp.csproj.AssemblyReference.cache
+E:\SwabhavLiveSession\session_25\FixedDepositryLibrary\ICICIConsoleApp\obj\Debug\net6.0\ICICIConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\SwabhavLiveSession\session_25\FixedDepositryLibrary\ICICIConsoleApp\obj\Debug\net6.0\ICICIConsoleApp.AssemblyInfoInputs.cache
+E:\SwabhavLiveSession\session_25\FixedDepositryLibrary\ICICIConsoleApp\obj\Debug\net6.0\ICICIConsoleApp.AssemblyInfo.cs
+E:\SwabhavLiveSession\session_25\FixedDepositryLibrary\ICICIConsoleApp\obj\Debug\net6.0\ICICIConsoleApp.csproj.CoreCompileInputs.cache
+E:\SwabhavLiveSession\session_25\FixedDepositryLibrary\ICICIConsoleApp\obj\Debug\net6.0\ICICIConsoleApp.csproj.CopyComplete
+E:\SwabhavLiveSession\session_25\FixedDepositryLibrary\ICICIConsoleApp\obj\Debug\net6.0\ICICIConsoleApp.dll
+E:\SwabhavLiveSession\session_25\FixedDepositryLibrary\ICICIConsoleApp\obj\Debug\net6.0\refint\ICICIConsoleApp.dll
+E:\SwabhavLiveSession\session_25\FixedDepositryLibrary\ICICIConsoleApp\obj\Debug\net6.0\ICICIConsoleApp.pdb
+E:\SwabhavLiveSession\session_25\FixedDepositryLibrary\ICICIConsoleApp\obj\Debug\net6.0\ICICIConsoleApp.genruntimeconfig.cache
+E:\SwabhavLiveSession\session_25\FixedDepositryLibrary\ICICIConsoleApp\obj\Debug\net6.0\ref\ICICIConsoleApp.dll
+E:\Swabhav Assignments\session 31\FixedDepositryLibrary\ICICIConsoleApp\obj\Debug\net6.0\ICICIConsoleApp.csproj.AssemblyReference.cache
+E:\Swabhav Assignments\session 31\FixedDepositryLibrary\ICICIConsoleApp\obj\Debug\net6.0\ICICIConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Swabhav Assignments\session 31\FixedDepositryLibrary\ICICIConsoleApp\obj\Debug\net6.0\ICICIConsoleApp.AssemblyInfoInputs.cache
+E:\Swabhav Assignments\session 31\FixedDepositryLibrary\ICICIConsoleApp\obj\Debug\net6.0\ICICIConsoleApp.AssemblyInfo.cs
+E:\Swabhav Assignments\session 31\FixedDepositryLibrary\ICICIConsoleApp\obj\Debug\net6.0\ICICIConsoleApp.csproj.CoreCompileInputs.cache
+E:\Swabhav Assignments\session 31\FixedDepositryLibrary\ICICIConsoleApp\obj\Debug\net6.0\ICICIConsoleApp.dll
+E:\Swabhav Assignments\session 31\FixedDepositryLibrary\ICICIConsoleApp\obj\Debug\net6.0\refint\ICICIConsoleApp.dll
+E:\Swabhav Assignments\session 31\FixedDepositryLibrary\ICICIConsoleApp\obj\Debug\net6.0\ICICIConsoleApp.pdb

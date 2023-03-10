@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Swabhav Assignments\\session 31\\FixedDepositryLibrary\\ICICIConsoleApp\\ICICIConsoleApp.csproj": {}
+  },
+  "projects": {
+    "E:\\Swabhav Assignments\\session 31\\FixedDepositryLibrary\\FixedDepositryLibrary\\FixedDepositryLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Swabhav Assignments\\session 31\\FixedDepositryLibrary\\FixedDepositryLibrary\\FixedDepositryLibrary.csproj",
+        "projectName": "FixedDepositryLibrary",
+        "projectPath": "E:\\Swabhav Assignments\\session 31\\FixedDepositryLibrary\\FixedDepositryLibrary\\FixedDepositryLibrary.csproj",
+        "packagesPath": "C:\\Users\\santosh\\.nuget\\packages\\",
+        "outputPath": "E:\\Swabhav Assignments\\session 31\\FixedDepositryLibrary\\FixedDepositryLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\santosh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Swabhav Assignments\\session 31\\FixedDepositryLibrary\\ICICIConsoleApp\\ICICIConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Swabhav Assignments\\session 31\\FixedDepositryLibrary\\ICICIConsoleApp\\ICICIConsoleApp.csproj",
+        "projectName": "ICICIConsoleApp",
+        "projectPath": "E:\\Swabhav Assignments\\session 31\\FixedDepositryLibrary\\ICICIConsoleApp\\ICICIConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\santosh\\.nuget\\packages\\",
+        "outputPath": "E:\\Swabhav Assignments\\session 31\\FixedDepositryLibrary\\ICICIConsoleApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\santosh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Swabhav Assignments\\session 31\\FixedDepositryLibrary\\FixedDepositryLibrary\\FixedDepositryLibrary.csproj": {
+                "projectPath": "E:\\Swabhav Assignments\\session 31\\FixedDepositryLibrary\\FixedDepositryLibrary\\FixedDepositryLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

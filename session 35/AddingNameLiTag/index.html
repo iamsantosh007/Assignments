@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="./Mycss.css">
+    <title>Document</title>
+</head>
+
+<body>
+    <div class="parent">
+        <div class="child" style="height:auto;width:20px;flex:10">
+            <input type="text" id="nameTextBox">
+            <button id="addButton">Add</button>
+            <ul id="liParent"></ul>
+        </div>
+        <div class="child">
+            <table class="table table-hover">
+                <thead>
+                    <tr>
+                        <th>Entered Value</th>
+                    </tr>
+                </thead>
+                <tbody id="tableBody">
+
+                </tbody>
+            </table>
+        </div>
+
+        <div class="child">
+            <table class="table table-hover">
+                <thead>
+                    <tr>
+                        <th>Removed Value</th>
+                    </tr>
+                </thead>
+                <tbody id="tableBodyRemove">
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script src="./MyScripts.js"></script>
+
+</body>
+
+</html>

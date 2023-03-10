@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ICICIConsoleApp/1.0.0": {
+        "dependencies": {
+          "FixedDepositryLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ICICIConsoleApp.dll": {}
+        }
+      },
+      "FixedDepositryLibrary/1.0.0": {
+        "runtime": {
+          "FixedDepositryLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ICICIConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FixedDepositryLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
